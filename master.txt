@@ -1,2 +1,3 @@
 test one
 newline
+I wrote it in featureA
